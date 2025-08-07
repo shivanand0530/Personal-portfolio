@@ -1,9 +1,11 @@
+/* Import Remix Icons */
+@import url('https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
-/* Import Remix Icons */
-@import url('https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css');
+
 
 /* Custom scrollbar - Hidden */
 ::-webkit-scrollbar {

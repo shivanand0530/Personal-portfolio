@@ -6,6 +6,9 @@ import { Navigation, Pagination } from 'swiper/modules';
 import { projects } from '../data/portfolio';
 import { useScrollReveal } from '../hooks/useScrollReveal';
 
+/** @jsxImportSource react */
+
+
 // Import Swiper styles
 import 'swiper/css';
 import 'swiper/css/navigation';

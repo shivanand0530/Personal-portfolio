@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import { Download, MapPin, Mail, Phone, Linkedin, Github, Twitter } from 'lucide-react';
+import { MapPin, Mail, Phone, Linkedin, Github } from 'lucide-react';
 import { motion } from 'framer-motion';
 import { personalInfo, socialLinks } from '../data/portfolio';
 import { useScrollReveal } from '../hooks/useScrollReveal';
