@@ -23,9 +23,8 @@ import sourcetree from '../assets/sourcetree-logo.webp';
 import RNproject from '../assets/password-manager-theme-.webp';
 import chessAPp from '../assets/chess-app-img.png';
 import LeetBuddyAI from '../assets/leetbuddy-project.webp';
-import revGui from '../assets/rev-gui.png';
 import weather from '../assets/rn-weather.png';
-
+import revGui from '../assets/rev-Gui.webp';
 
 export const personalInfo = {
   name: "Shivananda Bharathi K",
