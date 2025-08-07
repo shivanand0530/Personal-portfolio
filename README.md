@@ -1,6 +1,6 @@
 # 🧑‍💻 Personal Portfolio
 
-A sleek, modern, and responsive developer portfolio built using **React**, **TypeScript**, **Tailwind CSS**, and **Vite**. This portfolio showcases your projects, skills, and contact information — perfect for making a great first impression.
+A sleek, modern, and responsive developer portfolio built using **React**, **TypeScript**, **Tailwind CSS**, and **Vite**. This portfolio showcases  projects, skills, and contact information.
 
 ---
 
